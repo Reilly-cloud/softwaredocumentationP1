@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<h1> Preview interactive documents </h1>
+
+<p> Use the Preview panel to preview interactive elements in the document. </p>
+
+<ul>1. Click the Play Preview button to preview the object or page.</ul>
+
+
+<ul>2. To preview the interactive elements, do any of the following actions:
+
+<li>Click the Set Preview Selection Mode button to preview the current selection.</li>
+
+<li>Click the Set Preview Spread Mode button to preview the current spread.</li>
+
+<li>Click the Set Preview Document Mode button to preview the current document.</li>
+
+</ul>
+<ul>3. Choose Window > Interactive > Preview.</ul> 
+</html> 

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<h1> Manage Bookmarks </h1> 
+<p> Use the Bookmarks panel to rename, delete, and arrange bookmarks.</p> 
+        <figure>
+            <img class="Bookmarks" src="images/Bookmark window.png" alt="Bookmark window icon"; height="20", width="150"; ></figure>
+<li>1. Rename a bookmark
+    <ul>Select the bookmark in the Bookmarks panel and choose Rename Bookmark from the menu.</ul></li>
+<li>2. Delete a bookmark
+
+<ul>Click a bookmark in the Bookmarks panel, and choose Delete Bookmark from the panel menu.</ul>
+
+<li>3. Sort bookmarks
+<ul>To sort bookmarks, choose Sort Bookmarks from the Bookmarks panel menu. Bookmarks appear in the same order as the pages they jump to.</ul></li>
+
+</html> 

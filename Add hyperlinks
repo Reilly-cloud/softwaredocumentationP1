@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<h1> Add Hyperlinks </h1>
+<p> Add a hyperlink to any element</p> 
+
+<li>1. Select Window > Interactive > Hyperlinks and select the Hyperlinks panel.       
+<figure>
+<img class="Hyperlinks" src="images/Hyperlink window.png" alt="Hyperlinks panel"; height="20" width="150"> </figure></li>
+<li>2. Select any element from the document </li>
+<li>3. In the Hyperlinks panel, select New Hyperlink from the dropdown menu.</li>
+<ul><li>Add your hyperlink destination with a URL <figure> <img class="Hyperlinks" src="images/New hyperlink.png" alt="New hyperlink"; height="200" width="200"> </figure></li>
+</li> </ul>   
+
+</html> 

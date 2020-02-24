@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<h1> Create bookmarks  </h1>
+
+<p> Bookmarks you create in the InDesign document appear in the Bookmarks tab on the left side of the Acrobat window when you export to PDF.</p> 
+
+
+
+<ul>
+<li> Choose Window > Interactive > Bookmarks to display the Bookmarks panel. <figure><img class="Bookmarks" src="images/Bookmark path.png" alt="Bookmark path"; height="150",width="150"> </figure> </li> 
+<li> 2. Click the bookmark under which you want to place the new bookmark. 
+<ul>If you don’t select a bookmark, the new bookmark is automatically added to the end of the list.</ul> </li> 
+<li> 3. Perform one of the following actions to show where you want the bookmark to jump: 
+<ul> Click on a point in the text. </ul> 
+<ul> Select text. </ul>
+<ul> Double-click a page in the Pages panel. </ul> 
+</li>
+<li> Choose New Bookmark from the panel menu. </li> 
+</ul> 
+</html> 

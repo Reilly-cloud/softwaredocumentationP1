@@ -1,18 +1,88 @@
-
+<!DOCTYPE html>
+<html>
 <h1> Create an Interative PDF in Adobe InDesign </h1>
 
 <p> Once you create an Adobe InDesign document (.indd), you can add interactive features to the document. </p> 
+
 
 
 <h2>
 Save the document as an Interactive PDF file </h2>
 
 <p> 
+<li>
 1. Choose File > Export.
 
 2. Specify a name and location where to save the file.
 
-3. For Save As choose Adobe Interactive PDF and then click save. </p> 
+3. For Save As choose Adobe Interactive PDF and then click save. </li> </p> 
+
+<h2> Add Hyperlinks </h2>
+<p> Add a hyperlink to any element 
+<li>
+1. Click the Hyperlinks panel
+2. Select any element from the document 
+3. In the Hyperlinks panel, select Create New Hyperlink 
+4. Add your hyperlink destination </li>
+</p> 
+
+<h2> Add a movie or sound file </h2> 
+
+<p> Movies or sound files can play within a document when exported to PDF. Adobe recommends that you use .MOV video files or MP4 or MP3 sound files.  
+
+<li> 
+
+1. Choose File > Place, and then double-click the movie or sound file. 
+
+2. Click where you would like the file to appear. You can resize the media which appears as an object. 
+
+</li> 
+</p> 
+
+<h2> Insert Cross-References </h2> 
+
+<p> Cross-references link an object element to another page within the same document. 
+
+<li> 
+1. Locate the Cross-References panel. To open the panel, choose Window > Type & Tables > Cross-References.
+2. Place the insertion point where you want the cross-reference to be inserted.
+3. Open the New Cross-Reference dialog box: 
+
+Choose Type > Hyperlinks & Cross-References > Insert Cross-Reference.
+
+Choose Window > Type & Tables > Cross-References, and then choose Insert Cross-Reference from the panel menu.
+
+Click the Create New Cross-Reference button in the panel.
+
+4. In the dialog box, choose Paragraph or Text Anchor from the Link To menu.
+5. Select the document containing the destination that you want to refer to. 
+6. Click a paragraph style in the left box, and then select the paragraph you want. 
+7. Choose the cross-reference format you want to use from the Format menu.
+
+8. Specify the PDF appearance options for the cross-reference.
+
+9. Click OK. </li> 
+</p> 
+
+<h2> Add page transitions </h2> 
+
+<p> Page transitions display an effect when turning pages in an Interative PDF document
+
+<li> 1. Select spreads that you wish to apply transitions in the pages panel. 
+2. To display the Page Transitons panel, select Window > Interactive > Page Transitions. 
+3. Choose a transition from the transition menu and customize with the Direction and Speed menus. 
+4. To apply to all spreads, choose Apply to All Spreads in the Transition panel 
+</li> 
+</p> 
+
+<h2> Clear Page Transitions </h2> 
+
+<li> 
+1. In the Pages panel, select the spread from which you want to clear the transition, and then choose None from the Transition menu in the Page Transition panel.
+
+2. To remove transitions from all spreads, choose Clear Allfrom the Page Transitions panel menu. </li> 
+
+
 
 <h2> Create bookmarks  </h2>
 
@@ -20,7 +90,7 @@ Save the document as an Interactive PDF file </h2>
 
 A bookmark can link to a text block, image or a page anchor.
 
-<ul>
+<li>
 1. Choose Window > Interactive > Bookmarks to display the Bookmarks panel.
 2. Click the bookmark under which you want to place the new bookmark. If you don’t select a bookmark, the new bookmark is automatically added to the end of the list.
 3. Perform one of the following actions to show where you want the bookmark to jump:
@@ -32,7 +102,7 @@ Double-click a page in the Pages panel.
 
 4. Do one of the following to create the bookmark:
 Click the Create New Bookmark icon on the Bookmarks panel.
-</ul> 
+</li> 
 
 Choose New Bookmark from the panel menu. </p> 
 
@@ -40,11 +110,11 @@ Choose New Bookmark from the panel menu. </p>
 
 <p> Buttons are elements that allow you to jump to a different page or open a website.
 
-<ul>
+<li>
 1. Use the Pen tool or a drawing tool to draw the button shape.
 2. Use the selection/arrow tool to select the frame that you want to convert.
 3. Click the Convert To Button icon in the Buttons and Forms panel (choose Window > Interactive > Buttons and Forms). Or, choose Object > Interactive > Convert to Button.
-</ul> 
+</li> 
 
 In the Buttons and Forms panel, do the following:
 
@@ -60,10 +130,10 @@ Use the Preview panel (Window > Interactive > EPUB Interactivity Preview / SWF P
 
 <p> When you convert a button to an object, the contents of the button remain on the page without the button properties. All actions are removed. 
 
-<ul>
+<li>
 1. Choose Object > Interactive > Convert To Object.
 
-2. Use the Selection tool  to select the button. </ul> 
+2. Use the Selection tool  to select the button. </li> 
 </p> 
 
 <h2> Preview interactive documents  </h2> 
@@ -74,16 +144,16 @@ Click the Play Preview button to preview the object or page.
 
 
 To preview the interactive elements, do any of the following actions:
-<ul>
+<li>
 Click the Set Preview Selection Mode button to preview the current selection.
 
 Click the Set Preview Spread Mode button to preview the current spread.
 
 Click the Set Preview Document Mode button to preview the current document.
-</ul> 
+</li> 
 
 Choose Window > Interactive > Preview.
 </p> 
 
-
+</html> 
 

@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<h1> Add page transitions </h1> 
+
+<li>1. Select spreads that you wish to apply transitions in the pages panel. </li>
+<li>2. To display the Page Transitons panel, select Window > Interactive > Page Transitions. </li>
+<li>3. Choose a transition from the transition menu and customize with the Direction and Speed menus. </li>
+<li>4. To apply to all spreads, choose Apply to All Spreads in the Transition panel </li>
+
+</html> 

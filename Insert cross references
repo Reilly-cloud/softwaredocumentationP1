@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<h1> Insert Cross-References </h1> 
+
+    <p> Cross-references link an object element to another page within the same document. </p>
+
+
+<li>1. Locate the Cross-References panel. (Choose Window > Type & Tables > Cross-References.)</li>
+<li>2. Select the point where you want to insert the cross-reference.
+<li>3. Open the New Cross-Reference dialog box (Choose Window > Type & Tables > Cross-References, and then choose Insert Cross-Reference from the menu)</li>
+    
+<li>4. Choose Paragraph or Text Anchor from the Link To menu.</li>
+
+<li>5. Select the document you want to reference, select paragraph style in the left box then select the paragraph. </li>
+<li>6. Choose your cross-reference format from the Format menu.</li>
+
+</html> 

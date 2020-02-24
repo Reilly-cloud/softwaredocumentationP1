@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<h1> Page transitions </h1> 
+
+<p> Page transitions display an effect when turning pages in an Interative PDF document.</p>
+<li><ul><a href="Add page transitions.html">Add page transitions</a></ul>
+<ul><a href="Clear page transitions.html">Clear page transitions</a></ul>
+</li>
+
+</html> 
