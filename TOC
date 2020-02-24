@@ -3,19 +3,18 @@
 <h1> Table of Contents </h1> 
 <ul>
 <li><a href="Add a movie or sound file.html">Add a movie or sound file</a> </li>
-<li><a href="Buttons.html">Buttons</a> 
-<ul><a href="Add buttons.html">Add buttons</a></ul>
-<ul><a href="Convert button to an object.html">Convert button to an object</a></ul> 
+<li><a href="Buttons Folder/Buttons.html">Buttons</a> 
+<ul><a href="Buttons Folder/Add buttons.html">Add buttons</a></ul>
+<ul><a href="Buttons Folder/Convert button to an object.html">Convert button to an object</a></ul> 
 </li>
-<li><a href="Bookmarks.html">Bookmarks</a>
-<ul><a href="Create bookmarks.html">Create bookmarks</a></ul>
-<ul><a href="Manage bookmarks.html">Manage bookmarks</a></ul>
+<li><a href="Bookmarks Folder/Bookmarks.html">Bookmarks</a>
+<ul><a href="Bookmarks Folder/Create bookmarks.html">Create bookmarks</a></ul>
+<ul><a href="Bookmarks Folder/Manage bookmarks.html">Manage bookmarks</a></ul>
 </li>
 <li><a href="Add hyperlinks.html">Add hyperlinks</a> </li> 
-
-<li><a href="Page transitions.html">Page transitions</a>
-<ul><a href="Add page transitions.html">Add page transitions</a></ul>
-<ul><a href="Clear page transitions.html">Clear page transitions</a></ul>
+<li><a href="Page transitions folder/Page transitions.html">Page transitions</a>
+<ul><a href="Page transitions folder/Add page transitions.html">Add page transitions</a></ul>
+<ul><a href="Page transitions folder/Clear page transitions.html">Clear page transitions</a></ul>
 </li>
 <li><a href="Insert Cross References.html">Insert Cross References</a></li>
 <li><a href="Preview interactive documents.html">Preview interactive documents</a></li>
