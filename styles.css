@@ -14,20 +14,29 @@
 
 @import url('https://fonts.googleapis.com/css?family=Dosis|Lato&display=swap');
 
-@IMPORT url ("https://fonts.googleapis.com/css?family=Nanum+Gothic&display=swap")
+@import url ("https://fonts.googleapis.com/css?family=Nanum+Gothic&display=swap");
 
 
 h1 {
-    font: font-family: 'Nanum Gothic', sans-serif;;
+    font: 'Nanum Gothic', sans-serif;
     font-size: 20pt;
-    color: blue;
+    color: darkblue;
     text-align: left;
     padding-top: 10px;
     padding-right: 10px;
     padding-bottom: 10px;
     padding-left: 10px;
-    background-color: beige;
+    background-color: gray;
 }
+
 p {
-    background-color: 
+    font-family: sans-serif;
+    font: Nanum Gothic;
+    color: darkblue;
 }
+ul {font-family: sans-serif;
+    font: Nanum Gothic;
+    color: darkblue}
+li {font-family: sans-serif;
+    font: Nanum Gothic;
+    color: darkblue}
