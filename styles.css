@@ -1,0 +1,33 @@
+/* Styles for Web Design Lab Portfolio Project
+ *
+ * It's a good idea to keep a comment up here at the top of the file with useful
+ * information for anyone trying to read the file: notes, hints, etc. One very valuable
+ * piece of information is who to talk to about this file if you have questions! Hence:
+ *
+ * Author: (your name here)
+*/
+
+/* This is a CSS Comment; note the comment syntax is different from what we use to mark up comments in HTML! */
+
+/* Page styles after this comment */
+
+
+@import url('https://fonts.googleapis.com/css?family=Dosis|Lato&display=swap');
+
+@IMPORT url ("https://fonts.googleapis.com/css?family=Nanum+Gothic&display=swap")
+
+
+h1 {
+    font: font-family: 'Nanum Gothic', sans-serif;;
+    font-size: 20pt;
+    color: blue;
+    text-align: left;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    background-color: beige;
+}
+p {
+    background-color: 
+}
